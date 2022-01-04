@@ -1,14 +1,12 @@
-# Title
+# Chat bot project
 
-Simple (or clever and funny?) description
+Robot who talks
 
 ## Table of Contents
 
-- [Background](#background)
-
-- [Install](#install)
-
-- [Usage](#usage)
+- bullet
+- other bullet
+- third one
 
 ## Background
 
