@@ -7,7 +7,6 @@ Robot who talks
 - bullet
 - other bullet
 - third one
--blabla
 
 ## Background
 
